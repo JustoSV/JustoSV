@@ -1,6 +1,6 @@
 # Hi I'm Justo Saenz Valiente 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript
 
 <!--
 **JustoSV/JustoSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
