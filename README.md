@@ -1,4 +1,4 @@
-# Hi I'm Justo Saenz Valiente 👋
+## Hi I'm Justo Saenz Valiente 👋
 
 - 🌱 I’m currently learning JavaScript
 
